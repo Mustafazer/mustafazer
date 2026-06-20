@@ -15,10 +15,6 @@ Working papers in progress
 - *Refugee Inflows and Hate Crime*
 - *Forced Migration, Mental Health, and the Labour Market*
 
-## The site
-
-The site is a single self contained `index.html` built with plain HTML, CSS, and vanilla JavaScript. It is hosted on GitHub Pages with no build step. The background is an animated sky that follows the local time of day and the live Newcastle weather.
-
 ## Contact
 
 - M.Ozer2@newcastle.ac.uk
